@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Liste des fichiers et répertoires dans le dossier actuel :"
+# ce script affiche la liste des fichiers dans le répertoire courant"
 ls -l
